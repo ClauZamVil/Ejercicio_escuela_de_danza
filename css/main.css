@@ -78,9 +78,9 @@ li{
 
 }
 
-.text_2{
+.texto_2{
 	text-align: center;
-	padding: 60px;
+	
 }
 
 .boton_2{
@@ -102,4 +102,11 @@ li{
 .text_boton_2{
 	color:white;
 	text-align: center;
+
+}
+
+.decoracion{
+	width: 100px;
+	height: 100px;
+	margin-left: 10px;
 }
