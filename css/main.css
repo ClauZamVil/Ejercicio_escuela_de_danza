@@ -1,0 +1,105 @@
+/* Inserta tu codigo aqui */
+.menu li{
+	color: #AEAEAE;
+	text-decoration: none;
+	display: inline-table;
+
+}
+
+
+
+
+li{
+	margin-right: 60px;
+	
+}
+
+
+.img_1{
+	width: 100%;
+	z-index: -10;
+}
+
+
+.esc{
+	color: #000080;
+	font-family: helvetica;
+	font-size: 20px;
+	
+}
+.text_menu{
+	text-align: center;
+
+}
+
+.texto_1{
+	position: relative;
+	bottom: 350px;
+	left: 30px;
+}
+
+
+.studio_1{
+	color: white;
+	font-family: helvetica;
+	font-size: 30px;
+
+
+}
+
+
+.studio_2{
+	color: white;
+	font-family: helvetica;
+	font-size: 15px;
+
+
+}
+
+.boton{
+	width: 100px;
+	height: 40px;
+	background-color: #030C16;
+	border-radius: 5px;
+}
+
+.text_boton{
+	color: white;
+	font-size: 10px;
+	padding: 14px;
+	font-size: 12px;
+
+}
+
+.botoncito{
+	position: absolute;
+	top: 24px;
+	left: 79px;
+
+}
+
+.text_2{
+	text-align: center;
+	padding: 60px;
+}
+
+.boton_2{
+	margin: 0 auto;
+}
+
+.boton_2{
+	width: 200px;
+	height: 40px;
+	background-color: #121A3A;
+	border-radius: 5px;
+
+}
+
+.botoncito_2{
+	
+}
+
+.text_boton_2{
+	color:white;
+	text-align: center;
+}
